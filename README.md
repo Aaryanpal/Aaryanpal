@@ -23,4 +23,9 @@
 ### Language And Tools:
 <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="gif/github-snake.svg" alt="snake"></center>
+</p>
 
+<!-- https://github.com/Ayan-thecodeking/akshitagupta15june/blob/output/github-contribution-grid-snake.gif?raw=true -->
